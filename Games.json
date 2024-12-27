@@ -1,0 +1,5330 @@
+[
+    {
+        "AddedAt": "06/07 16:46",
+        "Count": 1,
+        "GameID": 1,
+        "Place": 1,
+        "RatingChange": 39.2,
+        "Score": 49200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "06/07 16:46",
+        "Count": 2,
+        "GameID": 1,
+        "Place": 3,
+        "RatingChange": -5.1,
+        "Score": 24900,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "06/07 16:46",
+        "Count": 3,
+        "GameID": 1,
+        "Place": 4,
+        "RatingChange": -44,
+        "Score": -4000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "06/07 16:46",
+        "Count": 4,
+        "GameID": 1,
+        "Place": 2,
+        "RatingChange": 9.9,
+        "Score": 29900,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "06/07 17:53",
+        "Count": 5,
+        "GameID": 2,
+        "Place": 1,
+        "RatingChange": 35,
+        "Score": 45000,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "06/07 17:53",
+        "Count": 6,
+        "GameID": 2,
+        "Place": 3,
+        "RatingChange": -22.2,
+        "Score": 7800,
+        "UserID": 9031
+    },
+    {
+        "AddedAt": "06/07 17:53",
+        "Count": 7,
+        "GameID": 2,
+        "Place": 4,
+        "RatingChange": -32.7,
+        "Score": 7300,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "06/07 17:53",
+        "Count": 8,
+        "GameID": 2,
+        "Place": 2,
+        "RatingChange": 19.9,
+        "Score": 39900,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "06/07 21:03",
+        "Count": 9,
+        "GameID": 3,
+        "Place": 4,
+        "RatingChange": -44.8,
+        "Score": -4800,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "06/07 21:03",
+        "Count": 10,
+        "GameID": 3,
+        "Place": 3,
+        "RatingChange": -7.9,
+        "Score": 22100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "06/07 21:03",
+        "Count": 11,
+        "GameID": 3,
+        "Place": 1,
+        "RatingChange": 46.3,
+        "Score": 56300,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "06/07 21:03",
+        "Count": 12,
+        "GameID": 3,
+        "Place": 2,
+        "RatingChange": 6.4,
+        "Score": 26400,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 13,
+        "GameID": 4,
+        "Place": 2,
+        "RatingChange": 13.2,
+        "Score": 33200,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 14,
+        "GameID": 4,
+        "Place": 3,
+        "RatingChange": -5,
+        "Score": 25000,
+        "UserID": 9031
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 15,
+        "GameID": 4,
+        "Place": 4,
+        "RatingChange": -41.7,
+        "Score": -1700,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 16,
+        "GameID": 4,
+        "Place": 1,
+        "RatingChange": 33.5,
+        "Score": 43500,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 17,
+        "GameID": 5,
+        "Place": 3,
+        "RatingChange": -11.1,
+        "Score": 18900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 18,
+        "GameID": 5,
+        "Place": 2,
+        "RatingChange": 16.7,
+        "Score": 36700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 19,
+        "GameID": 5,
+        "Place": 4,
+        "RatingChange": -40.5,
+        "Score": -500,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "06/07 21:11",
+        "Count": 20,
+        "GameID": 5,
+        "Place": 1,
+        "RatingChange": 34.9,
+        "Score": 44900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "06/07 21:12",
+        "Count": 21,
+        "GameID": 6,
+        "Place": 1,
+        "RatingChange": 29,
+        "Score": 39000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "06/07 21:12",
+        "Count": 22,
+        "GameID": 6,
+        "Place": 2,
+        "RatingChange": 8.5,
+        "Score": 28500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "06/07 21:12",
+        "Count": 23,
+        "GameID": 6,
+        "Place": 4,
+        "RatingChange": -24.7,
+        "Score": 15300,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "06/07 21:12",
+        "Count": 24,
+        "GameID": 6,
+        "Place": 3,
+        "RatingChange": -12.8,
+        "Score": 17200,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "13/7 15:33",
+        "Count": 45,
+        "GameID": 7,
+        "Place": 2,
+        "RatingChange": 9.6,
+        "Score": 29600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "13/7 15:33",
+        "Count": 46,
+        "GameID": 7,
+        "Place": 1,
+        "RatingChange": 32.9,
+        "Score": 42900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "13/7 15:33",
+        "Count": 47,
+        "GameID": 7,
+        "Place": 3,
+        "RatingChange": -1.7999999999999998,
+        "Score": 28200,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "13/7 15:33",
+        "Count": 48,
+        "GameID": 7,
+        "Place": 4,
+        "RatingChange": -40.7,
+        "Score": -700,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "13/7 16:43",
+        "Count": 49,
+        "GameID": 8,
+        "Place": 2,
+        "RatingChange": 5.1,
+        "Score": 25100,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "13/7 16:43",
+        "Count": 50,
+        "GameID": 8,
+        "Place": 1,
+        "RatingChange": 47.8,
+        "Score": 57800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "13/7 16:43",
+        "Count": 51,
+        "GameID": 8,
+        "Place": 4,
+        "RatingChange": -34,
+        "Score": 6000,
+        "UserID": 8357
+    },
+    {
+        "AddedAt": "13/7 16:43",
+        "Count": 52,
+        "GameID": 8,
+        "Place": 3,
+        "RatingChange": -18.9,
+        "Score": 11100,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "13/7 18:39",
+        "Count": 53,
+        "GameID": 9,
+        "Place": 1,
+        "RatingChange": 23.7,
+        "Score": 33700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "13/7 18:39",
+        "Count": 54,
+        "GameID": 9,
+        "Place": 3,
+        "RatingChange": -5.5,
+        "Score": 24500,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "13/7 18:39",
+        "Count": 55,
+        "GameID": 9,
+        "Place": 2,
+        "RatingChange": 9.8,
+        "Score": 29800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "13/7 18:39",
+        "Count": 56,
+        "GameID": 9,
+        "Place": 4,
+        "RatingChange": -28,
+        "Score": 12000,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "13/7 19:56",
+        "Count": 57,
+        "GameID": 10,
+        "Place": 1,
+        "RatingChange": 37,
+        "Score": 47000,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "13/7 19:56",
+        "Count": 58,
+        "GameID": 10,
+        "Place": 3,
+        "RatingChange": -9,
+        "Score": 21000,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "13/7 19:56",
+        "Count": 59,
+        "GameID": 10,
+        "Place": 2,
+        "RatingChange": 12.6,
+        "Score": 32600,
+        "UserID": 8357
+    },
+    {
+        "AddedAt": "13/7 19:56",
+        "Count": 60,
+        "GameID": 10,
+        "Place": 4,
+        "RatingChange": -40.6,
+        "Score": -600,
+        "UserID": 6784
+    },
+    {
+        "AddedAt": "13/7 20:53",
+        "Count": 61,
+        "GameID": 11,
+        "Place": 1,
+        "RatingChange": 20.7,
+        "Score": 30700,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "13/7 20:53",
+        "Count": 62,
+        "GameID": 11,
+        "Place": 3,
+        "RatingChange": -3.5,
+        "Score": 26500,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "13/7 20:53",
+        "Count": 63,
+        "GameID": 11,
+        "Place": 2,
+        "RatingChange": 10.6,
+        "Score": 30600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "13/7 20:53",
+        "Count": 64,
+        "GameID": 11,
+        "Place": 4,
+        "RatingChange": -27.8,
+        "Score": 12200,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "13/7 20:58",
+        "Count": 65,
+        "GameID": 12,
+        "Place": 1,
+        "RatingChange": 26.9,
+        "Score": 36900,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "13/7 20:58",
+        "Count": 66,
+        "GameID": 12,
+        "Place": 3,
+        "RatingChange": -13,
+        "Score": 17000,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "13/7 20:58",
+        "Count": 67,
+        "GameID": 12,
+        "Place": 2,
+        "RatingChange": 14.1,
+        "Score": 34100,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "13/7 20:58",
+        "Count": 68,
+        "GameID": 12,
+        "Place": 4,
+        "RatingChange": -28,
+        "Score": 12000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "13/7 20:59",
+        "Count": 69,
+        "GameID": 13,
+        "Place": 1,
+        "RatingChange": 26.4,
+        "Score": 36400,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "13/7 20:59",
+        "Count": 70,
+        "GameID": 13,
+        "Place": 4,
+        "RatingChange": -30.6,
+        "Score": 9400,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "13/7 20:59",
+        "Count": 71,
+        "GameID": 13,
+        "Place": 3,
+        "RatingChange": -7.6,
+        "Score": 22400,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "13/7 20:59",
+        "Count": 72,
+        "GameID": 13,
+        "Place": 2,
+        "RatingChange": 11.8,
+        "Score": 31800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "20/7 15:25",
+        "Count": 73,
+        "GameID": 14,
+        "Place": 1,
+        "RatingChange": 53.9,
+        "Score": 63900,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "20/7 15:25",
+        "Count": 74,
+        "GameID": 14,
+        "Place": 3,
+        "RatingChange": -18.3,
+        "Score": 11700,
+        "UserID": 3503
+    },
+    {
+        "AddedAt": "20/7 15:25",
+        "Count": 75,
+        "GameID": 14,
+        "Place": 4,
+        "RatingChange": -35.9,
+        "Score": 4100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "20/7 15:25",
+        "Count": 76,
+        "GameID": 14,
+        "Place": 2,
+        "RatingChange": 0.2999999999999998,
+        "Score": 20300,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "20/7 15:41",
+        "Count": 77,
+        "GameID": 15,
+        "Place": 1,
+        "RatingChange": 27.8,
+        "Score": 37800,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "20/7 15:41",
+        "Count": 78,
+        "GameID": 15,
+        "Place": 3,
+        "RatingChange": -9.5,
+        "Score": 20500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "20/7 15:41",
+        "Count": 79,
+        "GameID": 15,
+        "Place": 2,
+        "RatingChange": 15.2,
+        "Score": 35200,
+        "UserID": 8357
+    },
+    {
+        "AddedAt": "20/7 15:41",
+        "Count": 80,
+        "GameID": 15,
+        "Place": 4,
+        "RatingChange": -33.5,
+        "Score": 6500,
+        "UserID": 7911
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 81,
+        "GameID": 16,
+        "Place": 1,
+        "RatingChange": 23.8,
+        "Score": 33800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 82,
+        "GameID": 16,
+        "Place": 3,
+        "RatingChange": -8.8,
+        "Score": 21200,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 83,
+        "GameID": 16,
+        "Place": 2,
+        "RatingChange": 12.8,
+        "Score": 32800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 84,
+        "GameID": 16,
+        "Place": 4,
+        "RatingChange": -27.8,
+        "Score": 12200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 85,
+        "GameID": 17,
+        "Place": 1,
+        "RatingChange": 28.6,
+        "Score": 38600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 86,
+        "GameID": 17,
+        "Place": 3,
+        "RatingChange": -3.5,
+        "Score": 26500,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 87,
+        "GameID": 17,
+        "Place": 4,
+        "RatingChange": -43.1,
+        "Score": -3100,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "20/7 16:48",
+        "Count": 88,
+        "GameID": 17,
+        "Place": 2,
+        "RatingChange": 18,
+        "Score": 38000,
+        "UserID": 3503
+    },
+    {
+        "AddedAt": "20/7 17:28",
+        "Count": 89,
+        "GameID": 18,
+        "Place": 1,
+        "RatingChange": 36,
+        "Score": 46000,
+        "UserID": 8357
+    },
+    {
+        "AddedAt": "20/7 17:28",
+        "Count": 90,
+        "GameID": 18,
+        "Place": 4,
+        "RatingChange": -26.8,
+        "Score": 13200,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "20/7 17:28",
+        "Count": 91,
+        "GameID": 18,
+        "Place": 2,
+        "RatingChange": 5.3,
+        "Score": 25300,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "20/7 17:28",
+        "Count": 92,
+        "GameID": 18,
+        "Place": 3,
+        "RatingChange": -14.5,
+        "Score": 15500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "20/7 18:33",
+        "Count": 93,
+        "GameID": 19,
+        "Place": 1,
+        "RatingChange": 46.9,
+        "Score": 56900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "20/7 18:33",
+        "Count": 94,
+        "GameID": 19,
+        "Place": 4,
+        "RatingChange": -30.6,
+        "Score": 9400,
+        "UserID": 3503
+    },
+    {
+        "AddedAt": "20/7 18:33",
+        "Count": 95,
+        "GameID": 19,
+        "Place": 3,
+        "RatingChange": -20.1,
+        "Score": 9900,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "20/7 18:33",
+        "Count": 96,
+        "GameID": 19,
+        "Place": 2,
+        "RatingChange": 3.8,
+        "Score": 23800,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "20/7 19:04",
+        "Count": 97,
+        "GameID": 20,
+        "Place": 1,
+        "RatingChange": 28.3,
+        "Score": 38300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "20/7 19:04",
+        "Count": 98,
+        "GameID": 20,
+        "Place": 3,
+        "RatingChange": -10,
+        "Score": 20000,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "20/7 19:04",
+        "Count": 99,
+        "GameID": 20,
+        "Place": 2,
+        "RatingChange": 9,
+        "Score": 29000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "20/7 19:04",
+        "Count": 100,
+        "GameID": 20,
+        "Place": 4,
+        "RatingChange": -27.3,
+        "Score": 12700,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "20/7 19:24",
+        "Count": 101,
+        "GameID": 21,
+        "Place": 1,
+        "RatingChange": 37.3,
+        "Score": 47300,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "20/7 19:24",
+        "Count": 102,
+        "GameID": 21,
+        "Place": 3,
+        "RatingChange": -3.9,
+        "Score": 26100,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "20/7 19:24",
+        "Count": 103,
+        "GameID": 21,
+        "Place": 2,
+        "RatingChange": 10.4,
+        "Score": 30400,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "20/7 19:24",
+        "Count": 104,
+        "GameID": 21,
+        "Place": 4,
+        "RatingChange": -43.8,
+        "Score": -3800,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "20/7 20:25",
+        "Count": 105,
+        "GameID": 22,
+        "Place": 1,
+        "RatingChange": 36.2,
+        "Score": 46200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "20/7 20:25",
+        "Count": 106,
+        "GameID": 22,
+        "Place": 2,
+        "RatingChange": 7.3,
+        "Score": 27300,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "20/7 20:25",
+        "Count": 107,
+        "GameID": 22,
+        "Place": 3,
+        "RatingChange": -6.8,
+        "Score": 23200,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "20/7 20:25",
+        "Count": 108,
+        "GameID": 22,
+        "Place": 4,
+        "RatingChange": -36.7,
+        "Score": 3300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "20/7 20:52",
+        "Count": 109,
+        "GameID": 23,
+        "Place": 1,
+        "RatingChange": 34.6,
+        "Score": 44600,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "20/7 20:52",
+        "Count": 110,
+        "GameID": 23,
+        "Place": 3,
+        "RatingChange": -9.8,
+        "Score": 20200,
+        "UserID": 3503
+    },
+    {
+        "AddedAt": "20/7 20:52",
+        "Count": 111,
+        "GameID": 23,
+        "Place": 2,
+        "RatingChange": 1.2000000000000002,
+        "Score": 21200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "20/7 20:52",
+        "Count": 112,
+        "GameID": 23,
+        "Place": 4,
+        "RatingChange": -26,
+        "Score": 14000,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "03/08 15:17",
+        "Count": 113,
+        "GameID": 24,
+        "Place": 1,
+        "RatingChange": 29.4,
+        "Score": 39400,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "03/08 15:17",
+        "Count": 114,
+        "GameID": 24,
+        "Place": 4,
+        "RatingChange": -35,
+        "Score": 5000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "03/08 15:17",
+        "Count": 115,
+        "GameID": 24,
+        "Place": 2,
+        "RatingChange": 11.8,
+        "Score": 31800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "03/08 15:17",
+        "Count": 116,
+        "GameID": 24,
+        "Place": 3,
+        "RatingChange": -6.2,
+        "Score": 23800,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "03/08 17:35",
+        "Count": 117,
+        "GameID": 25,
+        "Place": 2,
+        "RatingChange": 12.5,
+        "Score": 32500,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "03/08 17:35",
+        "Count": 118,
+        "GameID": 25,
+        "Place": 1,
+        "RatingChange": 23.2,
+        "Score": 33200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "03/08 17:35",
+        "Count": 119,
+        "GameID": 25,
+        "Place": 4,
+        "RatingChange": -36.9,
+        "Score": 3100,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "03/08 17:35",
+        "Count": 120,
+        "GameID": 25,
+        "Place": 3,
+        "RatingChange": 1.2000000000000002,
+        "Score": 31200,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "03/08 18:37",
+        "Count": 121,
+        "GameID": 26,
+        "Place": 3,
+        "RatingChange": -9.6,
+        "Score": 20400,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "03/08 18:37",
+        "Count": 122,
+        "GameID": 26,
+        "Place": 4,
+        "RatingChange": -22.3,
+        "Score": 17700,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "03/08 18:37",
+        "Count": 123,
+        "GameID": 26,
+        "Place": 1,
+        "RatingChange": 29.1,
+        "Score": 39100,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "03/08 18:37",
+        "Count": 124,
+        "GameID": 26,
+        "Place": 2,
+        "RatingChange": 2.8,
+        "Score": 22800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "03/08 19:02",
+        "Count": 125,
+        "GameID": 27,
+        "Place": 2,
+        "RatingChange": 11,
+        "Score": 31000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "03/08 19:02",
+        "Count": 126,
+        "GameID": 27,
+        "Place": 1,
+        "RatingChange": 27.8,
+        "Score": 37800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "03/08 19:02",
+        "Count": 127,
+        "GameID": 27,
+        "Place": 4,
+        "RatingChange": -32.8,
+        "Score": 7200,
+        "UserID": 1192
+    },
+    {
+        "AddedAt": "03/08 19:02",
+        "Count": 128,
+        "GameID": 27,
+        "Place": 3,
+        "RatingChange": -6,
+        "Score": 24000,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "03/08 19:21",
+        "Count": 129,
+        "GameID": 28,
+        "Place": 4,
+        "RatingChange": -21.2,
+        "Score": 18800,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "03/08 19:21",
+        "Count": 130,
+        "GameID": 28,
+        "Place": 1,
+        "RatingChange": 22,
+        "Score": 32000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "03/08 19:21",
+        "Count": 131,
+        "GameID": 28,
+        "Place": 2,
+        "RatingChange": 7.9,
+        "Score": 27900,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "03/08 19:21",
+        "Count": 132,
+        "GameID": 28,
+        "Place": 3,
+        "RatingChange": -8.7,
+        "Score": 21300,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "03/08 20:49",
+        "Count": 133,
+        "GameID": 29,
+        "Place": 2,
+        "RatingChange": 14.2,
+        "Score": 34200,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "03/08 20:49",
+        "Count": 134,
+        "GameID": 29,
+        "Place": 3,
+        "RatingChange": -7.7,
+        "Score": 22300,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "03/08 20:49",
+        "Count": 135,
+        "GameID": 29,
+        "Place": 1,
+        "RatingChange": 24.7,
+        "Score": 34700,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "03/08 20:49",
+        "Count": 136,
+        "GameID": 29,
+        "Place": 4,
+        "RatingChange": -31.2,
+        "Score": 8800,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "03/08 20:59",
+        "Count": 137,
+        "GameID": 30,
+        "Place": 2,
+        "RatingChange": 11.1,
+        "Score": 31100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "03/08 20:59",
+        "Count": 138,
+        "GameID": 30,
+        "Place": 1,
+        "RatingChange": 34.5,
+        "Score": 44500,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "03/08 20:59",
+        "Count": 139,
+        "GameID": 30,
+        "Place": 4,
+        "RatingChange": -34.8,
+        "Score": 5200,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "03/08 20:59",
+        "Count": 140,
+        "GameID": 30,
+        "Place": 3,
+        "RatingChange": -10.8,
+        "Score": 19200,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "10/08 16:23",
+        "Count": 141,
+        "GameID": 31,
+        "Place": 2,
+        "RatingChange": 13.2,
+        "Score": 33200,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "10/08 16:23",
+        "Count": 142,
+        "GameID": 31,
+        "Place": 4,
+        "RatingChange": -45.2,
+        "Score": -5200,
+        "UserID": 4952
+    },
+    {
+        "AddedAt": "10/08 16:23",
+        "Count": 143,
+        "GameID": 31,
+        "Place": 3,
+        "RatingChange": -19.8,
+        "Score": 10200,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "10/08 16:23",
+        "Count": 144,
+        "GameID": 31,
+        "Place": 1,
+        "RatingChange": 51.8,
+        "Score": 61800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "10/08 19:07",
+        "Count": 145,
+        "GameID": 32,
+        "Place": 2,
+        "RatingChange": 10.6,
+        "Score": 30600,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "10/08 19:07",
+        "Count": 146,
+        "GameID": 32,
+        "Place": 3,
+        "RatingChange": -3.3,
+        "Score": 26700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "10/08 19:07",
+        "Count": 147,
+        "GameID": 32,
+        "Place": 4,
+        "RatingChange": -28.5,
+        "Score": 11500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "10/08 19:07",
+        "Count": 148,
+        "GameID": 32,
+        "Place": 1,
+        "RatingChange": 21.2,
+        "Score": 31200,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "10/08 20:41",
+        "Count": 149,
+        "GameID": 33,
+        "Place": 1,
+        "RatingChange": 23.3,
+        "Score": 33300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "10/08 20:41",
+        "Count": 150,
+        "GameID": 33,
+        "Place": 4,
+        "RatingChange": -22,
+        "Score": 18000,
+        "UserID": 4952
+    },
+    {
+        "AddedAt": "10/08 20:41",
+        "Count": 151,
+        "GameID": 33,
+        "Place": 3,
+        "RatingChange": -6.3,
+        "Score": 23700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "10/08 20:41",
+        "Count": 152,
+        "GameID": 33,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "11/08 17:32",
+        "Count": 153,
+        "GameID": 34,
+        "Place": 1,
+        "RatingChange": 22.5,
+        "Score": 32500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "11/08 17:32",
+        "Count": 154,
+        "GameID": 34,
+        "Place": 2,
+        "RatingChange": 12.1,
+        "Score": 32100,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "11/08 17:32",
+        "Count": 155,
+        "GameID": 34,
+        "Place": 4,
+        "RatingChange": -23,
+        "Score": 17000,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "11/08 17:32",
+        "Count": 156,
+        "GameID": 34,
+        "Place": 3,
+        "RatingChange": -11.6,
+        "Score": 18400,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "11/08 19:57",
+        "Count": 157,
+        "GameID": 35,
+        "Place": 1,
+        "RatingChange": 32.9,
+        "Score": 42900,
+        "UserID": 1192
+    },
+    {
+        "AddedAt": "11/08 19:57",
+        "Count": 158,
+        "GameID": 35,
+        "Place": 2,
+        "RatingChange": 13.5,
+        "Score": 33500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "11/08 19:57",
+        "Count": 159,
+        "GameID": 35,
+        "Place": 4,
+        "RatingChange": -40.5,
+        "Score": -500,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "11/08 19:57",
+        "Count": 160,
+        "GameID": 35,
+        "Place": 3,
+        "RatingChange": -5.9,
+        "Score": 24100,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "17/08 16:09",
+        "Count": 161,
+        "GameID": 36,
+        "Place": 3,
+        "RatingChange": -7.2,
+        "Score": 22800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "17/08 16:09",
+        "Count": 162,
+        "GameID": 36,
+        "Place": 1,
+        "RatingChange": 21.2,
+        "Score": 31200,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "17/08 16:09",
+        "Count": 163,
+        "GameID": 36,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "17/08 16:09",
+        "Count": 164,
+        "GameID": 36,
+        "Place": 4,
+        "RatingChange": -19,
+        "Score": 21000,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "17/08 16:18",
+        "Count": 165,
+        "GameID": 37,
+        "Place": 1,
+        "RatingChange": 30.5,
+        "Score": 40500,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "17/08 16:18",
+        "Count": 166,
+        "GameID": 37,
+        "Place": 2,
+        "RatingChange": 16.9,
+        "Score": 36900,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "17/08 16:18",
+        "Count": 167,
+        "GameID": 37,
+        "Place": 4,
+        "RatingChange": -40.1,
+        "Score": -100,
+        "UserID": 1192
+    },
+    {
+        "AddedAt": "17/08 16:18",
+        "Count": 168,
+        "GameID": 37,
+        "Place": 3,
+        "RatingChange": -7.3,
+        "Score": 22700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "17/08 18:26",
+        "Count": 169,
+        "GameID": 38,
+        "Place": 4,
+        "RatingChange": -20.4,
+        "Score": 19600,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "17/08 18:26",
+        "Count": 170,
+        "GameID": 38,
+        "Place": 1,
+        "RatingChange": 20.5,
+        "Score": 30500,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "17/08 18:26",
+        "Count": 171,
+        "GameID": 38,
+        "Place": 3,
+        "RatingChange": -9.4,
+        "Score": 20600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "17/08 18:26",
+        "Count": 172,
+        "GameID": 38,
+        "Place": 2,
+        "RatingChange": 9.3,
+        "Score": 29300,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "17/08 18:32",
+        "Count": 173,
+        "GameID": 39,
+        "Place": 3,
+        "RatingChange": 1.7999999999999998,
+        "Score": 31800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "17/08 18:32",
+        "Count": 174,
+        "GameID": 39,
+        "Place": 2,
+        "RatingChange": 12.2,
+        "Score": 32200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "17/08 18:32",
+        "Count": 175,
+        "GameID": 39,
+        "Place": 4,
+        "RatingChange": -46.2,
+        "Score": -6200,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "17/08 18:32",
+        "Count": 176,
+        "GameID": 39,
+        "Place": 1,
+        "RatingChange": 32.2,
+        "Score": 42200,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "17/08 20:57",
+        "Count": 181,
+        "GameID": 40,
+        "Place": 4,
+        "RatingChange": -25.7,
+        "Score": 14300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "17/08 20:57",
+        "Count": 182,
+        "GameID": 40,
+        "Place": 3,
+        "RatingChange": -11.3,
+        "Score": 18700,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "17/08 20:57",
+        "Count": 183,
+        "GameID": 40,
+        "Place": 1,
+        "RatingChange": 33.7,
+        "Score": 43700,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "17/08 20:57",
+        "Count": 184,
+        "GameID": 40,
+        "Place": 2,
+        "RatingChange": 3.3,
+        "Score": 23300,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "17/08 21:09",
+        "Count": 185,
+        "GameID": 41,
+        "Place": 4,
+        "RatingChange": -29,
+        "Score": 11000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "17/08 21:09",
+        "Count": 186,
+        "GameID": 41,
+        "Place": 2,
+        "RatingChange": 2.5,
+        "Score": 22500,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "17/08 21:09",
+        "Count": 187,
+        "GameID": 41,
+        "Place": 3,
+        "RatingChange": -11.4,
+        "Score": 18600,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "17/08 21:09",
+        "Count": 188,
+        "GameID": 41,
+        "Place": 1,
+        "RatingChange": 37.9,
+        "Score": 47900,
+        "UserID": 4464
+    },
+    {
+        "AddedAt": "24/08 15:38",
+        "Count": 189,
+        "GameID": 42,
+        "Place": 1,
+        "RatingChange": 44.6,
+        "Score": 54600,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "24/08 15:38",
+        "Count": 190,
+        "GameID": 42,
+        "Place": 4,
+        "RatingChange": -34.9,
+        "Score": 5100,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "24/08 15:38",
+        "Count": 191,
+        "GameID": 42,
+        "Place": 2,
+        "RatingChange": 4.1,
+        "Score": 24100,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "24/08 15:38",
+        "Count": 192,
+        "GameID": 42,
+        "Place": 3,
+        "RatingChange": -13.8,
+        "Score": 16200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "24/08 17:25",
+        "Count": 193,
+        "GameID": 43,
+        "Place": 4,
+        "RatingChange": -24.8,
+        "Score": 15200,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "24/08 17:25",
+        "Count": 194,
+        "GameID": 43,
+        "Place": 2,
+        "RatingChange": 6,
+        "Score": 26000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "24/08 17:25",
+        "Count": 195,
+        "GameID": 43,
+        "Place": 3,
+        "RatingChange": -10.6,
+        "Score": 19400,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "24/08 17:25",
+        "Count": 196,
+        "GameID": 43,
+        "Place": 1,
+        "RatingChange": 29.4,
+        "Score": 39400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "24/08 17:44",
+        "Count": 197,
+        "GameID": 44,
+        "Place": 4,
+        "RatingChange": -40.3,
+        "Score": -300,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "24/08 17:44",
+        "Count": 198,
+        "GameID": 44,
+        "Place": 2,
+        "RatingChange": 19.3,
+        "Score": 39300,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "24/08 17:44",
+        "Count": 199,
+        "GameID": 44,
+        "Place": 1,
+        "RatingChange": 29.4,
+        "Score": 39400,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "24/08 17:44",
+        "Count": 200,
+        "GameID": 44,
+        "Place": 3,
+        "RatingChange": -8.4,
+        "Score": 21600,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "24/08 19:13",
+        "Count": 201,
+        "GameID": 45,
+        "Place": 3,
+        "RatingChange": -21.5,
+        "Score": 8500,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "24/08 19:13",
+        "Count": 202,
+        "GameID": 45,
+        "Place": 4,
+        "RatingChange": -31.7,
+        "Score": 8300,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "24/08 19:13",
+        "Count": 203,
+        "GameID": 45,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "24/08 19:13",
+        "Count": 204,
+        "GameID": 45,
+        "Place": 1,
+        "RatingChange": 48.2,
+        "Score": 58200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "24/08 19:14",
+        "Count": 205,
+        "GameID": 46,
+        "Place": 4,
+        "RatingChange": -22.1,
+        "Score": 17900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "24/08 19:14",
+        "Count": 206,
+        "GameID": 46,
+        "Place": 3,
+        "RatingChange": -9.8,
+        "Score": 20200,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "24/08 19:14",
+        "Count": 207,
+        "GameID": 46,
+        "Place": 1,
+        "RatingChange": 29.5,
+        "Score": 39500,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "24/08 19:14",
+        "Count": 208,
+        "GameID": 46,
+        "Place": 2,
+        "RatingChange": 2.4,
+        "Score": 22400,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "24/08 20:30",
+        "Count": 209,
+        "GameID": 47,
+        "Place": 4,
+        "RatingChange": -29.1,
+        "Score": 10900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "24/08 20:30",
+        "Count": 210,
+        "GameID": 47,
+        "Place": 1,
+        "RatingChange": 27.2,
+        "Score": 37200,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "24/08 20:30",
+        "Count": 211,
+        "GameID": 47,
+        "Place": 2,
+        "RatingChange": 7.6,
+        "Score": 27600,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "24/08 20:30",
+        "Count": 212,
+        "GameID": 47,
+        "Place": 3,
+        "RatingChange": -5.7,
+        "Score": 24300,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "24/08 20:46",
+        "Count": 213,
+        "GameID": 48,
+        "Place": 4,
+        "RatingChange": -47.3,
+        "Score": -7300,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "24/08 20:46",
+        "Count": 214,
+        "GameID": 48,
+        "Place": 2,
+        "RatingChange": 14.7,
+        "Score": 34700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "24/08 20:46",
+        "Count": 215,
+        "GameID": 48,
+        "Place": 3,
+        "RatingChange": -3.7,
+        "Score": 26300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "24/08 20:46",
+        "Count": 216,
+        "GameID": 48,
+        "Place": 1,
+        "RatingChange": 36.3,
+        "Score": 46300,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "31/08 15:59",
+        "Count": 217,
+        "GameID": 49,
+        "Place": 3,
+        "RatingChange": -13.5,
+        "Score": 16500,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "31/08 15:59",
+        "Count": 218,
+        "GameID": 49,
+        "Place": 2,
+        "RatingChange": 15.3,
+        "Score": 35300,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "31/08 15:59",
+        "Count": 219,
+        "GameID": 49,
+        "Place": 4,
+        "RatingChange": -29.9,
+        "Score": 10100,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "31/08 15:59",
+        "Count": 220,
+        "GameID": 49,
+        "Place": 1,
+        "RatingChange": 28.1,
+        "Score": 38100,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "31/08 17:43",
+        "Count": 221,
+        "GameID": 50,
+        "Place": 4,
+        "RatingChange": -33.2,
+        "Score": 6800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "31/08 17:43",
+        "Count": 222,
+        "GameID": 50,
+        "Place": 1,
+        "RatingChange": 24,
+        "Score": 34000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "31/08 17:43",
+        "Count": 223,
+        "GameID": 50,
+        "Place": 2,
+        "RatingChange": 11.1,
+        "Score": 31100,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "31/08 17:43",
+        "Count": 224,
+        "GameID": 50,
+        "Place": 3,
+        "RatingChange": -1.9,
+        "Score": 28100,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "31/08 18:47",
+        "Count": 225,
+        "GameID": 51,
+        "Place": 4,
+        "RatingChange": -51.6,
+        "Score": -11600,
+        "UserID": 6870
+    },
+    {
+        "AddedAt": "31/08 18:47",
+        "Count": 226,
+        "GameID": 51,
+        "Place": 1,
+        "RatingChange": 63.7,
+        "Score": 73700,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "31/08 18:47",
+        "Count": 227,
+        "GameID": 51,
+        "Place": 2,
+        "RatingChange": 11.8,
+        "Score": 31800,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "31/08 18:47",
+        "Count": 228,
+        "GameID": 51,
+        "Place": 3,
+        "RatingChange": -23.9,
+        "Score": 6100,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "31/08 19:56",
+        "Count": 229,
+        "GameID": 52,
+        "Place": 1,
+        "RatingChange": 32.5,
+        "Score": 42500,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "31/08 19:56",
+        "Count": 230,
+        "GameID": 52,
+        "Place": 3,
+        "RatingChange": -9.2,
+        "Score": 20800,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "31/08 19:56",
+        "Count": 231,
+        "GameID": 52,
+        "Place": 2,
+        "RatingChange": 10.3,
+        "Score": 30300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "31/08 19:56",
+        "Count": 232,
+        "GameID": 52,
+        "Place": 4,
+        "RatingChange": -33.6,
+        "Score": 6400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "31/08 21:04",
+        "Count": 233,
+        "GameID": 53,
+        "Place": 3,
+        "RatingChange": -7.3,
+        "Score": 22700,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "31/08 21:04",
+        "Count": 234,
+        "GameID": 53,
+        "Place": 1,
+        "RatingChange": 26.4,
+        "Score": 36400,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "31/08 21:04",
+        "Count": 235,
+        "GameID": 53,
+        "Place": 4,
+        "RatingChange": -32.1,
+        "Score": 7900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "31/08 21:04",
+        "Count": 236,
+        "GameID": 53,
+        "Place": 2,
+        "RatingChange": 13,
+        "Score": 33000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "31/08 21:11",
+        "Count": 237,
+        "GameID": 54,
+        "Place": 1,
+        "RatingChange": 21.7,
+        "Score": 31700,
+        "UserID": 6870
+    },
+    {
+        "AddedAt": "31/08 21:11",
+        "Count": 238,
+        "GameID": 54,
+        "Place": 2,
+        "RatingChange": 4.7,
+        "Score": 24700,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "31/08 21:11",
+        "Count": 239,
+        "GameID": 54,
+        "Place": 4,
+        "RatingChange": -20.3,
+        "Score": 19700,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "31/08 21:11",
+        "Count": 240,
+        "GameID": 54,
+        "Place": 3,
+        "RatingChange": -6.1,
+        "Score": 23900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "07/09 15:28",
+        "Count": 241,
+        "GameID": 55,
+        "Place": 1,
+        "RatingChange": 43.1,
+        "Score": 53100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "07/09 15:28",
+        "Count": 242,
+        "GameID": 55,
+        "Place": 2,
+        "RatingChange": 24,
+        "Score": 44000,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "07/09 15:28",
+        "Count": 243,
+        "GameID": 55,
+        "Place": 3,
+        "RatingChange": -18,
+        "Score": 12000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "07/09 15:28",
+        "Count": 244,
+        "GameID": 55,
+        "Place": 4,
+        "RatingChange": -49.1,
+        "Score": -9100,
+        "UserID": 9031
+    },
+    {
+        "AddedAt": "07/09 17:22",
+        "Count": 245,
+        "GameID": 56,
+        "Place": 3,
+        "RatingChange": -11.1,
+        "Score": 18900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "07/09 17:22",
+        "Count": 246,
+        "GameID": 56,
+        "Place": 2,
+        "RatingChange": 2.5,
+        "Score": 22500,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "07/09 17:22",
+        "Count": 247,
+        "GameID": 56,
+        "Place": 4,
+        "RatingChange": -36.7,
+        "Score": 3300,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "07/09 17:22",
+        "Count": 248,
+        "GameID": 56,
+        "Place": 1,
+        "RatingChange": 45.3,
+        "Score": 55300,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "07/09 17:44",
+        "Count": 249,
+        "GameID": 57,
+        "Place": 2,
+        "RatingChange": 5.4,
+        "Score": 25400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "07/09 17:44",
+        "Count": 250,
+        "GameID": 57,
+        "Place": 3,
+        "RatingChange": -4.6,
+        "Score": 25400,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "07/09 17:44",
+        "Count": 251,
+        "GameID": 57,
+        "Place": 4,
+        "RatingChange": -22.7,
+        "Score": 17300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "07/09 17:44",
+        "Count": 252,
+        "GameID": 57,
+        "Place": 1,
+        "RatingChange": 21.9,
+        "Score": 31900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "07/09 19:40",
+        "Count": 253,
+        "GameID": 58,
+        "Place": 2,
+        "RatingChange": 9.8,
+        "Score": 29800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "07/09 19:40",
+        "Count": 254,
+        "GameID": 58,
+        "Place": 3,
+        "RatingChange": -7.1,
+        "Score": 22900,
+        "UserID": 3322
+    },
+    {
+        "AddedAt": "07/09 19:40",
+        "Count": 255,
+        "GameID": 58,
+        "Place": 4,
+        "RatingChange": -32.8,
+        "Score": 7200,
+        "UserID": 4377
+    },
+    {
+        "AddedAt": "07/09 19:40",
+        "Count": 256,
+        "GameID": 58,
+        "Place": 1,
+        "RatingChange": 30.1,
+        "Score": 40100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "07/09 20:05",
+        "Count": 257,
+        "GameID": 59,
+        "Place": 1,
+        "RatingChange": 32.6,
+        "Score": 42600,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "07/09 20:05",
+        "Count": 258,
+        "GameID": 59,
+        "Place": 4,
+        "RatingChange": -28.5,
+        "Score": 11500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "07/09 20:05",
+        "Count": 259,
+        "GameID": 59,
+        "Place": 2,
+        "RatingChange": 13.6,
+        "Score": 33600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "07/09 20:05",
+        "Count": 260,
+        "GameID": 59,
+        "Place": 3,
+        "RatingChange": -17.7,
+        "Score": 12300,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "21/09 16:02",
+        "Count": 261,
+        "GameID": 60,
+        "Place": 1,
+        "RatingChange": 47.1,
+        "Score": 57100,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "21/09 16:02",
+        "Count": 262,
+        "GameID": 60,
+        "Place": 4,
+        "RatingChange": -31.9,
+        "Score": 8100,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "21/09 16:02",
+        "Count": 263,
+        "GameID": 60,
+        "Place": 2,
+        "RatingChange": 4,
+        "Score": 24000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/09 16:02",
+        "Count": 264,
+        "GameID": 60,
+        "Place": 3,
+        "RatingChange": -19.2,
+        "Score": 10800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "21/09 17:09",
+        "Count": 265,
+        "GameID": 61,
+        "Place": 4,
+        "RatingChange": -37.2,
+        "Score": 2800,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "21/09 17:09",
+        "Count": 266,
+        "GameID": 61,
+        "Place": 3,
+        "RatingChange": -14.3,
+        "Score": 15700,
+        "UserID": 6784
+    },
+    {
+        "AddedAt": "21/09 17:09",
+        "Count": 267,
+        "GameID": 61,
+        "Place": 1,
+        "RatingChange": 31.7,
+        "Score": 41700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "21/09 17:09",
+        "Count": 268,
+        "GameID": 61,
+        "Place": 2,
+        "RatingChange": 19.8,
+        "Score": 39800,
+        "UserID": 2649
+    },
+    {
+        "AddedAt": "21/09 18:11",
+        "Count": 269,
+        "GameID": 62,
+        "Place": 4,
+        "RatingChange": -38.2,
+        "Score": 1800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "21/09 18:11",
+        "Count": 270,
+        "GameID": 62,
+        "Place": 3,
+        "RatingChange": -8.2,
+        "Score": 21800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "21/09 18:11",
+        "Count": 271,
+        "GameID": 62,
+        "Place": 1,
+        "RatingChange": 31.5,
+        "Score": 41500,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "21/09 18:11",
+        "Count": 272,
+        "GameID": 62,
+        "Place": 2,
+        "RatingChange": 14.9,
+        "Score": 34900,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/09 19:24",
+        "Count": 273,
+        "GameID": 63,
+        "Place": 3,
+        "RatingChange": -4.7,
+        "Score": 25300,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "21/09 19:24",
+        "Count": 274,
+        "GameID": 63,
+        "Place": 4,
+        "RatingChange": -25.6,
+        "Score": 14400,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "21/09 19:24",
+        "Count": 275,
+        "GameID": 63,
+        "Place": 2,
+        "RatingChange": 7.5,
+        "Score": 27500,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "21/09 19:24",
+        "Count": 276,
+        "GameID": 63,
+        "Place": 1,
+        "RatingChange": 22.8,
+        "Score": 32800,
+        "UserID": 2649
+    },
+    {
+        "AddedAt": "21/09 20:53",
+        "Count": 277,
+        "GameID": 64,
+        "Place": 1,
+        "RatingChange": 31.8,
+        "Score": 41800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "21/09 20:53",
+        "Count": 278,
+        "GameID": 64,
+        "Place": 4,
+        "RatingChange": -28.4,
+        "Score": 11600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "21/09 20:53",
+        "Count": 279,
+        "GameID": 64,
+        "Place": 2,
+        "RatingChange": 10.1,
+        "Score": 30100,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/09 20:53",
+        "Count": 280,
+        "GameID": 64,
+        "Place": 3,
+        "RatingChange": -13.5,
+        "Score": 16500,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "28/09 16:31",
+        "Count": 281,
+        "GameID": 65,
+        "Place": 4,
+        "RatingChange": -34.8,
+        "Score": 5200,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "28/09 16:31",
+        "Count": 282,
+        "GameID": 65,
+        "Place": 1,
+        "RatingChange": 33,
+        "Score": 43000,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "28/09 16:31",
+        "Count": 283,
+        "GameID": 65,
+        "Place": 2,
+        "RatingChange": 6.6,
+        "Score": 26600,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "28/09 16:31",
+        "Count": 284,
+        "GameID": 65,
+        "Place": 3,
+        "RatingChange": -4.8,
+        "Score": 25200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "28/09 17:58",
+        "Count": 285,
+        "GameID": 66,
+        "Place": 4,
+        "RatingChange": -44.2,
+        "Score": -4200,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "28/09 17:58",
+        "Count": 286,
+        "GameID": 66,
+        "Place": 1,
+        "RatingChange": 37.8,
+        "Score": 47800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "28/09 17:58",
+        "Count": 287,
+        "GameID": 66,
+        "Place": 2,
+        "RatingChange": 17.1,
+        "Score": 37100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "28/09 17:58",
+        "Count": 288,
+        "GameID": 66,
+        "Place": 3,
+        "RatingChange": -10.7,
+        "Score": 19300,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "28/09 19:46",
+        "Count": 289,
+        "GameID": 67,
+        "Place": 2,
+        "RatingChange": 10.1,
+        "Score": 30100,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "28/09 19:46",
+        "Count": 290,
+        "GameID": 67,
+        "Place": 1,
+        "RatingChange": 36.2,
+        "Score": 46200,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "28/09 19:46",
+        "Count": 291,
+        "GameID": 67,
+        "Place": 3,
+        "RatingChange": -13.3,
+        "Score": 16700,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "28/09 19:46",
+        "Count": 292,
+        "GameID": 67,
+        "Place": 4,
+        "RatingChange": -33,
+        "Score": 7000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "28/09 20:25",
+        "Count": 293,
+        "GameID": 68,
+        "Place": 1,
+        "RatingChange": 36.2,
+        "Score": 46200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "28/09 20:25",
+        "Count": 294,
+        "GameID": 68,
+        "Place": 2,
+        "RatingChange": 14.1,
+        "Score": 34100,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "28/09 20:25",
+        "Count": 295,
+        "GameID": 68,
+        "Place": 4,
+        "RatingChange": -37.1,
+        "Score": 2900,
+        "UserID": 4729
+    },
+    {
+        "AddedAt": "28/09 20:25",
+        "Count": 296,
+        "GameID": 68,
+        "Place": 3,
+        "RatingChange": -13.2,
+        "Score": 16800,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "05/10 14:58",
+        "Count": 297,
+        "GameID": 69,
+        "Place": 3,
+        "RatingChange": -2.1,
+        "Score": 27900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "05/10 14:58",
+        "Count": 298,
+        "GameID": 69,
+        "Place": 4,
+        "RatingChange": -40.8,
+        "Score": -800,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "05/10 14:58",
+        "Count": 299,
+        "GameID": 69,
+        "Place": 2,
+        "RatingChange": 13.9,
+        "Score": 33900,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "05/10 14:58",
+        "Count": 300,
+        "GameID": 69,
+        "Place": 1,
+        "RatingChange": 29,
+        "Score": 39000,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 301,
+        "GameID": 70,
+        "Place": 3,
+        "RatingChange": -7.1,
+        "Score": 22900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 302,
+        "GameID": 70,
+        "Place": 1,
+        "RatingChange": 32.9,
+        "Score": 42900,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 303,
+        "GameID": 70,
+        "Place": 2,
+        "RatingChange": 14.9,
+        "Score": 34900,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 304,
+        "GameID": 70,
+        "Place": 4,
+        "RatingChange": -40.7,
+        "Score": -700,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 305,
+        "GameID": 71,
+        "Place": 1,
+        "RatingChange": 43.2,
+        "Score": 53200,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 306,
+        "GameID": 71,
+        "Place": 3,
+        "RatingChange": -5.2,
+        "Score": 24800,
+        "UserID": 1596
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 307,
+        "GameID": 71,
+        "Place": 2,
+        "RatingChange": 9.8,
+        "Score": 29800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "05/10 16:13",
+        "Count": 308,
+        "GameID": 71,
+        "Place": 4,
+        "RatingChange": -47.8,
+        "Score": -7800,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "05/10 17:36",
+        "Count": 309,
+        "GameID": 72,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "05/10 17:36",
+        "Count": 310,
+        "GameID": 72,
+        "Place": 4,
+        "RatingChange": -43.3,
+        "Score": -3300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "05/10 17:36",
+        "Count": 311,
+        "GameID": 72,
+        "Place": 1,
+        "RatingChange": 52.1,
+        "Score": 62100,
+        "UserID": 4952
+    },
+    {
+        "AddedAt": "05/10 17:36",
+        "Count": 312,
+        "GameID": 72,
+        "Place": 3,
+        "RatingChange": -13.8,
+        "Score": 16200,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "15/10 17:51",
+        "Count": 317,
+        "GameID": 73,
+        "Place": 1,
+        "RatingChange": 36.9,
+        "Score": 46900,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "15/10 17:51",
+        "Count": 318,
+        "GameID": 73,
+        "Place": 2,
+        "RatingChange": 12.1,
+        "Score": 32100,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "15/10 17:51",
+        "Count": 319,
+        "GameID": 73,
+        "Place": 4,
+        "RatingChange": -30.6,
+        "Score": 9400,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "15/10 17:51",
+        "Count": 320,
+        "GameID": 73,
+        "Place": 3,
+        "RatingChange": -18.4,
+        "Score": 11600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "05/10 19:27",
+        "Count": 321,
+        "GameID": 74,
+        "Place": 1,
+        "RatingChange": 35.5,
+        "Score": 45500,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "05/10 19:27",
+        "Count": 322,
+        "GameID": 74,
+        "Place": 4,
+        "RatingChange": -28,
+        "Score": 12000,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "05/10 19:27",
+        "Count": 323,
+        "GameID": 74,
+        "Place": 2,
+        "RatingChange": 6.6,
+        "Score": 26600,
+        "UserID": 4952
+    },
+    {
+        "AddedAt": "05/10 19:27",
+        "Count": 324,
+        "GameID": 74,
+        "Place": 3,
+        "RatingChange": -14.1,
+        "Score": 15900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "05/10 19:31",
+        "Count": 325,
+        "GameID": 75,
+        "Place": 1,
+        "RatingChange": 21,
+        "Score": 31000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "05/10 19:31",
+        "Count": 326,
+        "GameID": 75,
+        "Place": 2,
+        "RatingChange": 5.9,
+        "Score": 25900,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "05/10 19:31",
+        "Count": 327,
+        "GameID": 75,
+        "Place": 3,
+        "RatingChange": -7.2,
+        "Score": 22800,
+        "UserID": 8579
+    },
+    {
+        "AddedAt": "05/10 19:31",
+        "Count": 328,
+        "GameID": 75,
+        "Place": 4,
+        "RatingChange": -19.7,
+        "Score": 20300,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "05/10 19:43",
+        "Count": 329,
+        "GameID": 76,
+        "Place": 3,
+        "RatingChange": -15.9,
+        "Score": 14100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "05/10 19:43",
+        "Count": 330,
+        "GameID": 76,
+        "Place": 2,
+        "RatingChange": 10.2,
+        "Score": 30200,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "05/10 19:43",
+        "Count": 331,
+        "GameID": 76,
+        "Place": 1,
+        "RatingChange": 37.4,
+        "Score": 47400,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "05/10 19:43",
+        "Count": 332,
+        "GameID": 76,
+        "Place": 4,
+        "RatingChange": -31.7,
+        "Score": 8300,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "05/10 20:52",
+        "Count": 333,
+        "GameID": 77,
+        "Place": 3,
+        "RatingChange": -6.1,
+        "Score": 23900,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "05/10 20:52",
+        "Count": 334,
+        "GameID": 77,
+        "Place": 1,
+        "RatingChange": 29.7,
+        "Score": 39700,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "05/10 20:52",
+        "Count": 335,
+        "GameID": 77,
+        "Place": 2,
+        "RatingChange": 9.4,
+        "Score": 29400,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "05/10 20:52",
+        "Count": 336,
+        "GameID": 77,
+        "Place": 4,
+        "RatingChange": -33,
+        "Score": 7000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "05/10 21:04",
+        "Count": 337,
+        "GameID": 78,
+        "Place": 1,
+        "RatingChange": 33.4,
+        "Score": 43400,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "05/10 21:04",
+        "Count": 338,
+        "GameID": 78,
+        "Place": 2,
+        "RatingChange": 4.2,
+        "Score": 24200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "05/10 21:04",
+        "Count": 339,
+        "GameID": 78,
+        "Place": 4,
+        "RatingChange": -30,
+        "Score": 10000,
+        "UserID": 4952
+    },
+    {
+        "AddedAt": "05/10 21:04",
+        "Count": 340,
+        "GameID": 78,
+        "Place": 3,
+        "RatingChange": -7.6,
+        "Score": 22400,
+        "UserID": 8579
+    },
+    {
+        "AddedAt": "05/10 21:13",
+        "Count": 341,
+        "GameID": 79,
+        "Place": 4,
+        "RatingChange": -32,
+        "Score": 8000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "05/10 21:13",
+        "Count": 342,
+        "GameID": 79,
+        "Place": 3,
+        "RatingChange": -9.5,
+        "Score": 20500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "05/10 21:13",
+        "Count": 343,
+        "GameID": 79,
+        "Place": 1,
+        "RatingChange": 39.4,
+        "Score": 49400,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "05/10 21:13",
+        "Count": 344,
+        "GameID": 79,
+        "Place": 2,
+        "RatingChange": 2.1,
+        "Score": 22100,
+        "UserID": 7043
+    },
+    {
+        "AddedAt": "12/10 16:17",
+        "Count": 345,
+        "GameID": 80,
+        "Place": 1,
+        "RatingChange": 26,
+        "Score": 36000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "12/10 16:17",
+        "Count": 346,
+        "GameID": 80,
+        "Place": 2,
+        "RatingChange": 9.7,
+        "Score": 29700,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "12/10 16:17",
+        "Count": 347,
+        "GameID": 80,
+        "Place": 3,
+        "RatingChange": -4.6,
+        "Score": 25400,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "12/10 16:17",
+        "Count": 348,
+        "GameID": 80,
+        "Place": 4,
+        "RatingChange": -31.1,
+        "Score": 8900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "12/10 17:54",
+        "Count": 349,
+        "GameID": 81,
+        "Place": 2,
+        "RatingChange": 14.8,
+        "Score": 34800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "12/10 17:54",
+        "Count": 350,
+        "GameID": 81,
+        "Place": 4,
+        "RatingChange": -45.5,
+        "Score": -5500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "12/10 17:54",
+        "Count": 351,
+        "GameID": 81,
+        "Place": 1,
+        "RatingChange": 39.9,
+        "Score": 49900,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "12/10 17:54",
+        "Count": 352,
+        "GameID": 81,
+        "Place": 3,
+        "RatingChange": -9.2,
+        "Score": 20800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "12/10 19:28",
+        "Count": 353,
+        "GameID": 82,
+        "Place": 3,
+        "RatingChange": -8.1,
+        "Score": 21900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "12/10 19:28",
+        "Count": 354,
+        "GameID": 82,
+        "Place": 1,
+        "RatingChange": 45.4,
+        "Score": 55400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "12/10 19:28",
+        "Count": 355,
+        "GameID": 82,
+        "Place": 2,
+        "RatingChange": 5.7,
+        "Score": 25700,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "12/10 19:28",
+        "Count": 356,
+        "GameID": 82,
+        "Place": 4,
+        "RatingChange": -43,
+        "Score": -3000,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "12/10 19:40",
+        "Count": 357,
+        "GameID": 83,
+        "Place": 2,
+        "RatingChange": 7.9,
+        "Score": 27900,
+        "UserID": 6870
+    },
+    {
+        "AddedAt": "12/10 19:40",
+        "Count": 358,
+        "GameID": 83,
+        "Place": 4,
+        "RatingChange": -40.9,
+        "Score": -900,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "12/10 19:40",
+        "Count": 359,
+        "GameID": 83,
+        "Place": 3,
+        "RatingChange": -11,
+        "Score": 19000,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "12/10 19:40",
+        "Count": 360,
+        "GameID": 83,
+        "Place": 1,
+        "RatingChange": 44,
+        "Score": 54000,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "12/10 20:58",
+        "Count": 361,
+        "GameID": 84,
+        "Place": 2,
+        "RatingChange": 9.9,
+        "Score": 29900,
+        "UserID": 6870
+    },
+    {
+        "AddedAt": "12/10 20:58",
+        "Count": 362,
+        "GameID": 84,
+        "Place": 1,
+        "RatingChange": 26.5,
+        "Score": 36500,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "12/10 20:58",
+        "Count": 363,
+        "GameID": 84,
+        "Place": 4,
+        "RatingChange": -26.1,
+        "Score": 13900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "12/10 20:58",
+        "Count": 364,
+        "GameID": 84,
+        "Place": 3,
+        "RatingChange": -10.3,
+        "Score": 19700,
+        "UserID": 7637
+    },
+    {
+        "AddedAt": "12/10 21:03",
+        "Count": 365,
+        "GameID": 85,
+        "Place": 2,
+        "RatingChange": 20.3,
+        "Score": 40300,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "12/10 21:03",
+        "Count": 366,
+        "GameID": 85,
+        "Place": 4,
+        "RatingChange": -45.3,
+        "Score": -5300,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "12/10 21:03",
+        "Count": 367,
+        "GameID": 85,
+        "Place": 3,
+        "RatingChange": -10.4,
+        "Score": 19600,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "12/10 21:03",
+        "Count": 368,
+        "GameID": 85,
+        "Place": 1,
+        "RatingChange": 35.4,
+        "Score": 45400,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "19/10 14:42",
+        "Count": 369,
+        "GameID": 86,
+        "Place": 1,
+        "RatingChange": 49,
+        "Score": 59000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "19/10 14:42",
+        "Count": 370,
+        "GameID": 86,
+        "Place": 4,
+        "RatingChange": -45.8,
+        "Score": -5800,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "19/10 14:42",
+        "Count": 371,
+        "GameID": 86,
+        "Place": 2,
+        "RatingChange": 4,
+        "Score": 24000,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "19/10 14:42",
+        "Count": 372,
+        "GameID": 86,
+        "Place": 3,
+        "RatingChange": -7.2,
+        "Score": 22800,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "19/10 15:25",
+        "Count": 373,
+        "GameID": 87,
+        "Place": 3,
+        "RatingChange": -1.1,
+        "Score": 28900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "19/10 15:25",
+        "Count": 374,
+        "GameID": 87,
+        "Place": 1,
+        "RatingChange": 29.3,
+        "Score": 39300,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "19/10 15:25",
+        "Count": 375,
+        "GameID": 87,
+        "Place": 4,
+        "RatingChange": -40.1,
+        "Score": -100,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "19/10 15:25",
+        "Count": 376,
+        "GameID": 87,
+        "Place": 2,
+        "RatingChange": 11.9,
+        "Score": 31900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "19/10 17:06",
+        "Count": 377,
+        "GameID": 88,
+        "Place": 3,
+        "RatingChange": -11.1,
+        "Score": 18900,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "19/10 17:06",
+        "Count": 378,
+        "GameID": 88,
+        "Place": 4,
+        "RatingChange": -24,
+        "Score": 16000,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "19/10 17:06",
+        "Count": 379,
+        "GameID": 88,
+        "Place": 1,
+        "RatingChange": 25.6,
+        "Score": 35600,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "19/10 17:06",
+        "Count": 380,
+        "GameID": 88,
+        "Place": 2,
+        "RatingChange": 9.5,
+        "Score": 29500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "19/10 18:21",
+        "Count": 381,
+        "GameID": 89,
+        "Place": 3,
+        "RatingChange": -4.1,
+        "Score": 25900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "19/10 18:21",
+        "Count": 382,
+        "GameID": 89,
+        "Place": 4,
+        "RatingChange": -54.9,
+        "Score": -14900,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "19/10 18:21",
+        "Count": 383,
+        "GameID": 89,
+        "Place": 2,
+        "RatingChange": 23.6,
+        "Score": 43600,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "19/10 18:21",
+        "Count": 384,
+        "GameID": 89,
+        "Place": 1,
+        "RatingChange": 35.4,
+        "Score": 45400,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "19/10 19:27",
+        "Count": 385,
+        "GameID": 90,
+        "Place": 1,
+        "RatingChange": 33.2,
+        "Score": 43200,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "19/10 19:27",
+        "Count": 386,
+        "GameID": 90,
+        "Place": 4,
+        "RatingChange": -45.6,
+        "Score": -5600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "19/10 19:27",
+        "Count": 387,
+        "GameID": 90,
+        "Place": 2,
+        "RatingChange": 13.1,
+        "Score": 33100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "19/10 19:27",
+        "Count": 388,
+        "GameID": 90,
+        "Place": 3,
+        "RatingChange": -0.7000000000000002,
+        "Score": 29300,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "19/10 20:23",
+        "Count": 389,
+        "GameID": 91,
+        "Place": 4,
+        "RatingChange": -24.9,
+        "Score": 15100,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "19/10 20:23",
+        "Count": 390,
+        "GameID": 91,
+        "Place": 1,
+        "RatingChange": 25.9,
+        "Score": 35900,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "19/10 20:23",
+        "Count": 391,
+        "GameID": 91,
+        "Place": 3,
+        "RatingChange": -5.9,
+        "Score": 24100,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "19/10 20:23",
+        "Count": 392,
+        "GameID": 91,
+        "Place": 2,
+        "RatingChange": 4.9,
+        "Score": 24900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "19/10 21:03",
+        "Count": 393,
+        "GameID": 92,
+        "Place": 1,
+        "RatingChange": 44.7,
+        "Score": 54700,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "19/10 21:03",
+        "Count": 394,
+        "GameID": 92,
+        "Place": 2,
+        "RatingChange": 19.6,
+        "Score": 39600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "19/10 21:03",
+        "Count": 395,
+        "GameID": 92,
+        "Place": 4,
+        "RatingChange": -44.4,
+        "Score": -4400,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "19/10 21:03",
+        "Count": 396,
+        "GameID": 92,
+        "Place": 3,
+        "RatingChange": -19.9,
+        "Score": 10100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "26/10 18:24",
+        "Count": 397,
+        "GameID": 93,
+        "Place": 1,
+        "RatingChange": 21.9,
+        "Score": 31900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "26/10 18:24",
+        "Count": 398,
+        "GameID": 93,
+        "Place": 4,
+        "RatingChange": -27.1,
+        "Score": 12900,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "26/10 18:24",
+        "Count": 399,
+        "GameID": 93,
+        "Place": 3,
+        "RatingChange": -3.9,
+        "Score": 26100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "26/10 18:24",
+        "Count": 400,
+        "GameID": 93,
+        "Place": 2,
+        "RatingChange": 9.1,
+        "Score": 29100,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "26/10 18:25",
+        "Count": 401,
+        "GameID": 94,
+        "Place": 1,
+        "RatingChange": 33,
+        "Score": 43000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "26/10 18:25",
+        "Count": 402,
+        "GameID": 94,
+        "Place": 2,
+        "RatingChange": 16,
+        "Score": 36000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "26/10 18:25",
+        "Count": 403,
+        "GameID": 94,
+        "Place": 4,
+        "RatingChange": -32,
+        "Score": 8000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "26/10 18:25",
+        "Count": 404,
+        "GameID": 94,
+        "Place": 3,
+        "RatingChange": -17,
+        "Score": 13000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "26/10 19:04",
+        "Count": 405,
+        "GameID": 95,
+        "Place": 4,
+        "RatingChange": -32.7,
+        "Score": 7300,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "26/10 19:04",
+        "Count": 406,
+        "GameID": 95,
+        "Place": 3,
+        "RatingChange": -12.4,
+        "Score": 17600,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "26/10 19:04",
+        "Count": 407,
+        "GameID": 95,
+        "Place": 1,
+        "RatingChange": 29.6,
+        "Score": 39600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "26/10 19:04",
+        "Count": 408,
+        "GameID": 95,
+        "Place": 2,
+        "RatingChange": 15.5,
+        "Score": 35500,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "26/10 20:03",
+        "Count": 409,
+        "GameID": 96,
+        "Place": 4,
+        "RatingChange": -27.5,
+        "Score": 12500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "26/10 20:03",
+        "Count": 410,
+        "GameID": 96,
+        "Place": 3,
+        "RatingChange": -10.9,
+        "Score": 19100,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "26/10 20:03",
+        "Count": 411,
+        "GameID": 96,
+        "Place": 1,
+        "RatingChange": 32.7,
+        "Score": 42700,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "26/10 20:03",
+        "Count": 412,
+        "GameID": 96,
+        "Place": 2,
+        "RatingChange": 5.7,
+        "Score": 25700,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "26/10 20:34",
+        "Count": 413,
+        "GameID": 97,
+        "Place": 2,
+        "RatingChange": 6.6,
+        "Score": 26600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "26/10 20:34",
+        "Count": 414,
+        "GameID": 97,
+        "Place": 3,
+        "RatingChange": -12,
+        "Score": 18000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "26/10 20:34",
+        "Count": 415,
+        "GameID": 97,
+        "Place": 4,
+        "RatingChange": -27.8,
+        "Score": 12200,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "26/10 20:34",
+        "Count": 416,
+        "GameID": 97,
+        "Place": 1,
+        "RatingChange": 33.2,
+        "Score": 43200,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "26/10 20:53",
+        "Count": 417,
+        "GameID": 98,
+        "Place": 1,
+        "RatingChange": 26.3,
+        "Score": 36300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "26/10 20:53",
+        "Count": 418,
+        "GameID": 98,
+        "Place": 2,
+        "RatingChange": 2.3,
+        "Score": 22300,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "26/10 20:53",
+        "Count": 419,
+        "GameID": 98,
+        "Place": 4,
+        "RatingChange": -19.3,
+        "Score": 20700,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "26/10 20:53",
+        "Count": 420,
+        "GameID": 98,
+        "Place": 3,
+        "RatingChange": -9.3,
+        "Score": 20700,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "26/10 15:31",
+        "Count": 425,
+        "GameID": 99,
+        "Place": 1,
+        "RatingChange": 57.9,
+        "Score": 67900,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "26/10 15:31",
+        "Count": 426,
+        "GameID": 99,
+        "Place": 2,
+        "RatingChange": 0.2999999999999998,
+        "Score": 20300,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "26/10 15:31",
+        "Count": 427,
+        "GameID": 99,
+        "Place": 4,
+        "RatingChange": -46,
+        "Score": -6000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "26/10 15:31",
+        "Count": 428,
+        "GameID": 99,
+        "Place": 3,
+        "RatingChange": -12.2,
+        "Score": 17800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "02/11 17:15",
+        "Count": 429,
+        "GameID": 100,
+        "Place": 1,
+        "RatingChange": 34,
+        "Score": 44000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "02/11 17:15",
+        "Count": 430,
+        "GameID": 100,
+        "Place": 2,
+        "RatingChange": 3.4,
+        "Score": 23400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "02/11 17:15",
+        "Count": 431,
+        "GameID": 100,
+        "Place": 4,
+        "RatingChange": -23.7,
+        "Score": 16300,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "02/11 17:15",
+        "Count": 432,
+        "GameID": 100,
+        "Place": 3,
+        "RatingChange": -13.7,
+        "Score": 16300,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "02/11 17:16",
+        "Count": 433,
+        "GameID": 101,
+        "Place": 2,
+        "RatingChange": 11.9,
+        "Score": 31900,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "02/11 17:16",
+        "Count": 434,
+        "GameID": 101,
+        "Place": 4,
+        "RatingChange": -42.9,
+        "Score": -2900,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "02/11 17:16",
+        "Count": 435,
+        "GameID": 101,
+        "Place": 1,
+        "RatingChange": 42.3,
+        "Score": 52300,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "02/11 17:16",
+        "Count": 436,
+        "GameID": 101,
+        "Place": 3,
+        "RatingChange": -11.3,
+        "Score": 18700,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "02/11 19:29",
+        "Count": 437,
+        "GameID": 102,
+        "Place": 3,
+        "RatingChange": -9.1,
+        "Score": 20900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "02/11 19:29",
+        "Count": 438,
+        "GameID": 102,
+        "Place": 2,
+        "RatingChange": 10,
+        "Score": 30000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "02/11 19:29",
+        "Count": 439,
+        "GameID": 102,
+        "Place": 1,
+        "RatingChange": 27.4,
+        "Score": 37400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "02/11 19:29",
+        "Count": 440,
+        "GameID": 102,
+        "Place": 4,
+        "RatingChange": -28.3,
+        "Score": 11700,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "02/11 19:56",
+        "Count": 441,
+        "GameID": 103,
+        "Place": 1,
+        "RatingChange": 40.5,
+        "Score": 50500,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "02/11 19:56",
+        "Count": 442,
+        "GameID": 103,
+        "Place": 3,
+        "RatingChange": -5,
+        "Score": 25000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "02/11 19:56",
+        "Count": 443,
+        "GameID": 103,
+        "Place": 4,
+        "RatingChange": -40.5,
+        "Score": -500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "02/11 19:56",
+        "Count": 444,
+        "GameID": 103,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "02/11 21:41",
+        "Count": 445,
+        "GameID": 104,
+        "Place": 3,
+        "RatingChange": -6,
+        "Score": 24000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "02/11 21:41",
+        "Count": 446,
+        "GameID": 104,
+        "Place": 2,
+        "RatingChange": 13.4,
+        "Score": 33400,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "02/11 21:41",
+        "Count": 447,
+        "GameID": 104,
+        "Place": 1,
+        "RatingChange": 26.4,
+        "Score": 36400,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "02/11 21:41",
+        "Count": 448,
+        "GameID": 104,
+        "Place": 4,
+        "RatingChange": -33.8,
+        "Score": 6200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "09/11 16:03",
+        "Count": 449,
+        "GameID": 105,
+        "Place": 2,
+        "RatingChange": 12.3,
+        "Score": 32300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "09/11 16:03",
+        "Count": 450,
+        "GameID": 105,
+        "Place": 1,
+        "RatingChange": 22.5,
+        "Score": 32500,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "09/11 16:03",
+        "Count": 451,
+        "GameID": 105,
+        "Place": 4,
+        "RatingChange": -25.1,
+        "Score": 14900,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "09/11 16:03",
+        "Count": 452,
+        "GameID": 105,
+        "Place": 3,
+        "RatingChange": -9.7,
+        "Score": 20300,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "09/11 17:31",
+        "Count": 453,
+        "GameID": 106,
+        "Place": 3,
+        "RatingChange": -7.7,
+        "Score": 22300,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "09/11 17:31",
+        "Count": 454,
+        "GameID": 106,
+        "Place": 1,
+        "RatingChange": 24.3,
+        "Score": 34300,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "09/11 17:31",
+        "Count": 455,
+        "GameID": 106,
+        "Place": 4,
+        "RatingChange": -29.1,
+        "Score": 10900,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "09/11 17:31",
+        "Count": 456,
+        "GameID": 106,
+        "Place": 2,
+        "RatingChange": 12.5,
+        "Score": 32500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "09/11 19:20",
+        "Count": 461,
+        "GameID": 108,
+        "Place": 3,
+        "RatingChange": -7.4,
+        "Score": 22600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "09/11 19:20",
+        "Count": 462,
+        "GameID": 108,
+        "Place": 1,
+        "RatingChange": 27.5,
+        "Score": 37500,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "09/11 19:20",
+        "Count": 463,
+        "GameID": 108,
+        "Place": 4,
+        "RatingChange": -30.6,
+        "Score": 9400,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "09/11 19:20",
+        "Count": 464,
+        "GameID": 108,
+        "Place": 2,
+        "RatingChange": 10.5,
+        "Score": 30500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 465,
+        "GameID": 109,
+        "Place": 1,
+        "RatingChange": 33.3,
+        "Score": 43300,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 466,
+        "GameID": 109,
+        "Place": 3,
+        "RatingChange": -12.9,
+        "Score": 17100,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 467,
+        "GameID": 109,
+        "Place": 4,
+        "RatingChange": -28.1,
+        "Score": 11900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 468,
+        "GameID": 109,
+        "Place": 2,
+        "RatingChange": 7.7,
+        "Score": 27700,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 469,
+        "GameID": 110,
+        "Place": 2,
+        "RatingChange": 14.6,
+        "Score": 34600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 470,
+        "GameID": 110,
+        "Place": 1,
+        "RatingChange": 40.5,
+        "Score": 50500,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 471,
+        "GameID": 110,
+        "Place": 3,
+        "RatingChange": -16.4,
+        "Score": 13600,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "09/11 21:06",
+        "Count": 472,
+        "GameID": 110,
+        "Place": 4,
+        "RatingChange": -38.7,
+        "Score": 1300,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "09/11 19:18",
+        "Count": 473,
+        "GameID": 107,
+        "Place": 1,
+        "RatingChange": 34.7,
+        "Score": 44700,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "09/11 19:18",
+        "Count": 474,
+        "GameID": 107,
+        "Place": 2,
+        "RatingChange": 12.5,
+        "Score": 32500,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "09/11 19:18",
+        "Count": 475,
+        "GameID": 107,
+        "Place": 4,
+        "RatingChange": -37.9,
+        "Score": 2100,
+        "UserID": 3823
+    },
+    {
+        "AddedAt": "09/11 19:18",
+        "Count": 476,
+        "GameID": 107,
+        "Place": 3,
+        "RatingChange": -9.3,
+        "Score": 20700,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "16/11 15:43",
+        "Count": 477,
+        "GameID": 111,
+        "Place": 3,
+        "RatingChange": -0.7999999999999998,
+        "Score": 29200,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "16/11 15:43",
+        "Count": 478,
+        "GameID": 111,
+        "Place": 4,
+        "RatingChange": -45.5,
+        "Score": -5500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "16/11 15:43",
+        "Count": 479,
+        "GameID": 111,
+        "Place": 2,
+        "RatingChange": 18.1,
+        "Score": 38100,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "16/11 15:43",
+        "Count": 480,
+        "GameID": 111,
+        "Place": 1,
+        "RatingChange": 28.2,
+        "Score": 38200,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "16/11 17:15",
+        "Count": 481,
+        "GameID": 112,
+        "Place": 1,
+        "RatingChange": 31.6,
+        "Score": 41600,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "16/11 17:15",
+        "Count": 482,
+        "GameID": 112,
+        "Place": 2,
+        "RatingChange": 1.1,
+        "Score": 21100,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "16/11 17:15",
+        "Count": 483,
+        "GameID": 112,
+        "Place": 3,
+        "RatingChange": -11.3,
+        "Score": 18700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "16/11 17:15",
+        "Count": 484,
+        "GameID": 112,
+        "Place": 4,
+        "RatingChange": -21.4,
+        "Score": 18600,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "16/11 18:04",
+        "Count": 485,
+        "GameID": 113,
+        "Place": 1,
+        "RatingChange": 23.8,
+        "Score": 33800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "16/11 18:04",
+        "Count": 486,
+        "GameID": 113,
+        "Place": 2,
+        "RatingChange": 13,
+        "Score": 33000,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "16/11 18:04",
+        "Count": 487,
+        "GameID": 113,
+        "Place": 3,
+        "RatingChange": -2.9,
+        "Score": 27100,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "16/11 18:04",
+        "Count": 488,
+        "GameID": 113,
+        "Place": 4,
+        "RatingChange": -33.9,
+        "Score": 6100,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "16/11 18:45",
+        "Count": 489,
+        "GameID": 114,
+        "Place": 4,
+        "RatingChange": -27.2,
+        "Score": 12800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "16/11 18:45",
+        "Count": 490,
+        "GameID": 114,
+        "Place": 3,
+        "RatingChange": -17,
+        "Score": 13000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "16/11 18:45",
+        "Count": 491,
+        "GameID": 114,
+        "Place": 2,
+        "RatingChange": 8.5,
+        "Score": 28500,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "16/11 18:45",
+        "Count": 492,
+        "GameID": 114,
+        "Place": 1,
+        "RatingChange": 35.7,
+        "Score": 45700,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "16/11 19:47",
+        "Count": 493,
+        "GameID": 115,
+        "Place": 4,
+        "RatingChange": -40.6,
+        "Score": -600,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "16/11 19:47",
+        "Count": 494,
+        "GameID": 115,
+        "Place": 3,
+        "RatingChange": -3.8,
+        "Score": 26200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "16/11 19:47",
+        "Count": 495,
+        "GameID": 115,
+        "Place": 1,
+        "RatingChange": 33.1,
+        "Score": 43100,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "16/11 19:47",
+        "Count": 496,
+        "GameID": 115,
+        "Place": 2,
+        "RatingChange": 11.3,
+        "Score": 31300,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "16/11 20:29",
+        "Count": 497,
+        "GameID": 116,
+        "Place": 3,
+        "RatingChange": -10,
+        "Score": 20000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "16/11 20:29",
+        "Count": 498,
+        "GameID": 116,
+        "Place": 4,
+        "RatingChange": -30.9,
+        "Score": 9100,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "16/11 20:29",
+        "Count": 499,
+        "GameID": 116,
+        "Place": 1,
+        "RatingChange": 32.2,
+        "Score": 42200,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "16/11 20:29",
+        "Count": 500,
+        "GameID": 116,
+        "Place": 2,
+        "RatingChange": 8.7,
+        "Score": 28700,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "16/11 20:50",
+        "Count": 501,
+        "GameID": 117,
+        "Place": 1,
+        "RatingChange": 24,
+        "Score": 34000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "16/11 20:50",
+        "Count": 502,
+        "GameID": 117,
+        "Place": 3,
+        "RatingChange": -3.6,
+        "Score": 26400,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "16/11 20:50",
+        "Count": 503,
+        "GameID": 117,
+        "Place": 2,
+        "RatingChange": 10.5,
+        "Score": 30500,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "16/11 20:50",
+        "Count": 504,
+        "GameID": 117,
+        "Place": 4,
+        "RatingChange": -30.9,
+        "Score": 9100,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "17/11 17:07",
+        "Count": 505,
+        "GameID": 118,
+        "Place": 1,
+        "RatingChange": 38.3,
+        "Score": 48300,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "17/11 17:07",
+        "Count": 506,
+        "GameID": 118,
+        "Place": 4,
+        "RatingChange": -34.8,
+        "Score": 5200,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "17/11 17:07",
+        "Count": 507,
+        "GameID": 118,
+        "Place": 3,
+        "RatingChange": -8.5,
+        "Score": 21500,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "17/11 17:07",
+        "Count": 508,
+        "GameID": 118,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "17/11 20:53",
+        "Count": 509,
+        "GameID": 119,
+        "Place": 3,
+        "RatingChange": -13.2,
+        "Score": 16800,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "17/11 20:53",
+        "Count": 510,
+        "GameID": 119,
+        "Place": 2,
+        "RatingChange": 15.1,
+        "Score": 35100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "17/11 20:53",
+        "Count": 511,
+        "GameID": 119,
+        "Place": 4,
+        "RatingChange": -32,
+        "Score": 8000,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "17/11 20:53",
+        "Count": 512,
+        "GameID": 119,
+        "Place": 1,
+        "RatingChange": 30.1,
+        "Score": 40100,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "23/11 15:22",
+        "Count": 513,
+        "GameID": 120,
+        "Place": 1,
+        "RatingChange": 23.3,
+        "Score": 33300,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "23/11 15:22",
+        "Count": 514,
+        "GameID": 120,
+        "Place": 2,
+        "RatingChange": 7.9,
+        "Score": 27900,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "23/11 15:22",
+        "Count": 515,
+        "GameID": 120,
+        "Place": 4,
+        "RatingChange": -23.2,
+        "Score": 16800,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "23/11 15:22",
+        "Count": 516,
+        "GameID": 120,
+        "Place": 3,
+        "RatingChange": -8,
+        "Score": 22000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "23/11 16:07",
+        "Count": 517,
+        "GameID": 121,
+        "Place": 3,
+        "RatingChange": -5.1,
+        "Score": 24900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "23/11 16:07",
+        "Count": 518,
+        "GameID": 121,
+        "Place": 2,
+        "RatingChange": 7.2,
+        "Score": 27200,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "23/11 16:07",
+        "Count": 519,
+        "GameID": 121,
+        "Place": 4,
+        "RatingChange": -32.4,
+        "Score": 7600,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "23/11 16:07",
+        "Count": 520,
+        "GameID": 121,
+        "Place": 1,
+        "RatingChange": 30.3,
+        "Score": 40300,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "23/11 16:26",
+        "Count": 521,
+        "GameID": 122,
+        "Place": 4,
+        "RatingChange": -23,
+        "Score": 17000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "23/11 16:26",
+        "Count": 522,
+        "GameID": 122,
+        "Place": 2,
+        "RatingChange": 11.7,
+        "Score": 31700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "23/11 16:26",
+        "Count": 523,
+        "GameID": 122,
+        "Place": 3,
+        "RatingChange": -12.9,
+        "Score": 17100,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "23/11 16:26",
+        "Count": 524,
+        "GameID": 122,
+        "Place": 1,
+        "RatingChange": 24.2,
+        "Score": 34200,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "23/11 17:52",
+        "Count": 525,
+        "GameID": 123,
+        "Place": 3,
+        "RatingChange": -5.9,
+        "Score": 24100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "23/11 17:52",
+        "Count": 526,
+        "GameID": 123,
+        "Place": 1,
+        "RatingChange": 26.9,
+        "Score": 36900,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "23/11 17:52",
+        "Count": 527,
+        "GameID": 123,
+        "Place": 4,
+        "RatingChange": -27.8,
+        "Score": 12200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "23/11 17:52",
+        "Count": 528,
+        "GameID": 123,
+        "Place": 2,
+        "RatingChange": 6.8,
+        "Score": 26800,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "23/11 18:14",
+        "Count": 533,
+        "GameID": 124,
+        "Place": 4,
+        "RatingChange": -43,
+        "Score": -3000,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "23/11 18:14",
+        "Count": 534,
+        "GameID": 124,
+        "Place": 1,
+        "RatingChange": 31.3,
+        "Score": 41300,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "23/11 18:14",
+        "Count": 535,
+        "GameID": 124,
+        "Place": 2,
+        "RatingChange": 21.1,
+        "Score": 41100,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "23/11 18:14",
+        "Count": 536,
+        "GameID": 124,
+        "Place": 3,
+        "RatingChange": -9.4,
+        "Score": 20600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "23/11 19:21",
+        "Count": 537,
+        "GameID": 125,
+        "Place": 2,
+        "RatingChange": 6.6,
+        "Score": 26600,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "23/11 19:21",
+        "Count": 538,
+        "GameID": 125,
+        "Place": 1,
+        "RatingChange": 32.7,
+        "Score": 42700,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "23/11 19:21",
+        "Count": 539,
+        "GameID": 125,
+        "Place": 3,
+        "RatingChange": -13.2,
+        "Score": 16800,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "23/11 19:21",
+        "Count": 540,
+        "GameID": 125,
+        "Place": 4,
+        "RatingChange": -26.1,
+        "Score": 13900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "23/11 20:12",
+        "Count": 541,
+        "GameID": 126,
+        "Place": 2,
+        "RatingChange": 12.2,
+        "Score": 32200,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "23/11 20:12",
+        "Count": 542,
+        "GameID": 126,
+        "Place": 1,
+        "RatingChange": 28.7,
+        "Score": 38700,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "23/11 20:12",
+        "Count": 543,
+        "GameID": 126,
+        "Place": 4,
+        "RatingChange": -35.8,
+        "Score": 4200,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "23/11 20:12",
+        "Count": 544,
+        "GameID": 126,
+        "Place": 3,
+        "RatingChange": -5.1,
+        "Score": 24900,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "23/11 20:18",
+        "Count": 545,
+        "GameID": 127,
+        "Place": 1,
+        "RatingChange": 29.1,
+        "Score": 39100,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "23/11 20:18",
+        "Count": 546,
+        "GameID": 127,
+        "Place": 2,
+        "RatingChange": 5,
+        "Score": 25000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "23/11 20:18",
+        "Count": 547,
+        "GameID": 127,
+        "Place": 4,
+        "RatingChange": -28.8,
+        "Score": 11200,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "23/11 20:18",
+        "Count": 548,
+        "GameID": 127,
+        "Place": 3,
+        "RatingChange": -5.3,
+        "Score": 24700,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "30/11 15:55",
+        "Count": 549,
+        "GameID": 128,
+        "Place": 3,
+        "RatingChange": -13.1,
+        "Score": 16900,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "30/11 15:55",
+        "Count": 550,
+        "GameID": 128,
+        "Place": 1,
+        "RatingChange": 37.7,
+        "Score": 47700,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "30/11 15:55",
+        "Count": 551,
+        "GameID": 128,
+        "Place": 2,
+        "RatingChange": 17.4,
+        "Score": 37400,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "30/11 15:55",
+        "Count": 552,
+        "GameID": 128,
+        "Place": 4,
+        "RatingChange": -42,
+        "Score": -2000,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "30/11 17:07",
+        "Count": 553,
+        "GameID": 129,
+        "Place": 2,
+        "RatingChange": 15.5,
+        "Score": 35500,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "30/11 17:07",
+        "Count": 554,
+        "GameID": 129,
+        "Place": 1,
+        "RatingChange": 34,
+        "Score": 44000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "30/11 17:07",
+        "Count": 555,
+        "GameID": 129,
+        "Place": 4,
+        "RatingChange": -43,
+        "Score": -3000,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "30/11 17:07",
+        "Count": 556,
+        "GameID": 129,
+        "Place": 3,
+        "RatingChange": -6.5,
+        "Score": 23500,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "30/11 18:44",
+        "Count": 557,
+        "GameID": 130,
+        "Place": 3,
+        "RatingChange": -11.2,
+        "Score": 18800,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "30/11 18:44",
+        "Count": 558,
+        "GameID": 130,
+        "Place": 4,
+        "RatingChange": -28.5,
+        "Score": 11500,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "30/11 18:44",
+        "Count": 559,
+        "GameID": 130,
+        "Place": 1,
+        "RatingChange": 29.8,
+        "Score": 39800,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "30/11 18:44",
+        "Count": 560,
+        "GameID": 130,
+        "Place": 2,
+        "RatingChange": 9.9,
+        "Score": 29900,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "30/11 19:44",
+        "Count": 561,
+        "GameID": 131,
+        "Place": 1,
+        "RatingChange": 30.3,
+        "Score": 40300,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "30/11 19:44",
+        "Count": 562,
+        "GameID": 131,
+        "Place": 2,
+        "RatingChange": 7.8,
+        "Score": 27800,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "30/11 19:44",
+        "Count": 563,
+        "GameID": 131,
+        "Place": 4,
+        "RatingChange": -32.7,
+        "Score": 7300,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "30/11 19:44",
+        "Count": 564,
+        "GameID": 131,
+        "Place": 3,
+        "RatingChange": -5.4,
+        "Score": 24600,
+        "UserID": 9031
+    },
+    {
+        "AddedAt": "30/11 20:39",
+        "Count": 565,
+        "GameID": 132,
+        "Place": 2,
+        "RatingChange": 12.6,
+        "Score": 32600,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "30/11 20:39",
+        "Count": 566,
+        "GameID": 132,
+        "Place": 3,
+        "RatingChange": -9.4,
+        "Score": 20600,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "30/11 20:39",
+        "Count": 567,
+        "GameID": 132,
+        "Place": 4,
+        "RatingChange": -25.9,
+        "Score": 14100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "30/11 20:39",
+        "Count": 568,
+        "GameID": 132,
+        "Place": 1,
+        "RatingChange": 22.7,
+        "Score": 32700,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "14/12 21:15",
+        "Count": 569,
+        "GameID": 133,
+        "Place": 4,
+        "RatingChange": -30.7,
+        "Score": 9300,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "14/12 21:15",
+        "Count": 570,
+        "GameID": 133,
+        "Place": 3,
+        "RatingChange": -5.7,
+        "Score": 24300,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "14/12 21:15",
+        "Count": 571,
+        "GameID": 133,
+        "Place": 1,
+        "RatingChange": 25.3,
+        "Score": 35300,
+        "UserID": 9203
+    },
+    {
+        "AddedAt": "14/12 21:15",
+        "Count": 572,
+        "GameID": 133,
+        "Place": 2,
+        "RatingChange": 11.1,
+        "Score": 31100,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "21/12 15:41",
+        "Count": 573,
+        "GameID": 134,
+        "Place": 3,
+        "RatingChange": -9.8,
+        "Score": 20200,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "21/12 15:41",
+        "Count": 574,
+        "GameID": 134,
+        "Place": 2,
+        "RatingChange": 5.4,
+        "Score": 25400,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "21/12 15:41",
+        "Count": 575,
+        "GameID": 134,
+        "Place": 4,
+        "RatingChange": -20.4,
+        "Score": 19600,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/12 15:41",
+        "Count": 576,
+        "GameID": 134,
+        "Place": 1,
+        "RatingChange": 24.8,
+        "Score": 34800,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "21/12 16:01",
+        "Count": 577,
+        "GameID": 135,
+        "Place": 4,
+        "RatingChange": -21.4,
+        "Score": 18600,
+        "UserID": 1028
+    },
+    {
+        "AddedAt": "21/12 16:01",
+        "Count": 578,
+        "GameID": 135,
+        "Place": 1,
+        "RatingChange": 22.5,
+        "Score": 32500,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "21/12 16:01",
+        "Count": 579,
+        "GameID": 135,
+        "Place": 2,
+        "RatingChange": 7.9,
+        "Score": 27900,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "21/12 16:01",
+        "Count": 580,
+        "GameID": 135,
+        "Place": 3,
+        "RatingChange": -9,
+        "Score": 21000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "21/12 17:06",
+        "Count": 581,
+        "GameID": 136,
+        "Place": 1,
+        "RatingChange": 36.8,
+        "Score": 46800,
+        "UserID": 1731
+    },
+    {
+        "AddedAt": "21/12 17:06",
+        "Count": 582,
+        "GameID": 136,
+        "Place": 2,
+        "RatingChange": 7.9,
+        "Score": 27900,
+        "UserID": 8193
+    },
+    {
+        "AddedAt": "21/12 17:06",
+        "Count": 583,
+        "GameID": 136,
+        "Place": 4,
+        "RatingChange": -41.9,
+        "Score": -1900,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "21/12 17:06",
+        "Count": 584,
+        "GameID": 136,
+        "Place": 3,
+        "RatingChange": -2.8,
+        "Score": 27200,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "21/12 17:09",
+        "Count": 585,
+        "GameID": 137,
+        "Place": 4,
+        "RatingChange": -45.1,
+        "Score": -5100,
+        "UserID": 4464
+    },
+    {
+        "AddedAt": "21/12 17:09",
+        "Count": 586,
+        "GameID": 137,
+        "Place": 1,
+        "RatingChange": 62,
+        "Score": 72000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "21/12 17:09",
+        "Count": 587,
+        "GameID": 137,
+        "Place": 3,
+        "RatingChange": -14.3,
+        "Score": 15700,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "21/12 17:09",
+        "Count": 588,
+        "GameID": 137,
+        "Place": 2,
+        "RatingChange": -2.5999999999999996,
+        "Score": 17400,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "21/12 17:52",
+        "Count": 589,
+        "GameID": 138,
+        "Place": 1,
+        "RatingChange": 31,
+        "Score": 41000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "21/12 17:52",
+        "Count": 590,
+        "GameID": 138,
+        "Place": 3,
+        "RatingChange": -5.4,
+        "Score": 24600,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/12 17:52",
+        "Count": 591,
+        "GameID": 138,
+        "Place": 4,
+        "RatingChange": -34.1,
+        "Score": 5900,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "21/12 17:52",
+        "Count": 592,
+        "GameID": 138,
+        "Place": 2,
+        "RatingChange": 8.5,
+        "Score": 28500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "21/12 18:33",
+        "Count": 593,
+        "GameID": 139,
+        "Place": 1,
+        "RatingChange": 36.9,
+        "Score": 46900,
+        "UserID": 8579
+    },
+    {
+        "AddedAt": "21/12 18:33",
+        "Count": 594,
+        "GameID": 139,
+        "Place": 2,
+        "RatingChange": 1,
+        "Score": 21000,
+        "UserID": 4464
+    },
+    {
+        "AddedAt": "21/12 18:33",
+        "Count": 595,
+        "GameID": 139,
+        "Place": 3,
+        "RatingChange": -11.9,
+        "Score": 18100,
+        "UserID": 8193
+    },
+    {
+        "AddedAt": "21/12 18:33",
+        "Count": 596,
+        "GameID": 139,
+        "Place": 4,
+        "RatingChange": -26,
+        "Score": 14000,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "21/12 19:01",
+        "Count": 597,
+        "GameID": 140,
+        "Place": 4,
+        "RatingChange": -28.9,
+        "Score": 11100,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "21/12 19:01",
+        "Count": 598,
+        "GameID": 140,
+        "Place": 2,
+        "RatingChange": 3.7,
+        "Score": 23700,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "21/12 19:01",
+        "Count": 599,
+        "GameID": 140,
+        "Place": 1,
+        "RatingChange": 31.6,
+        "Score": 41600,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "21/12 19:01",
+        "Count": 600,
+        "GameID": 140,
+        "Place": 3,
+        "RatingChange": -6.4,
+        "Score": 23600,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "21/12 19:54",
+        "Count": 601,
+        "GameID": 141,
+        "Place": 4,
+        "RatingChange": -31.3,
+        "Score": 8700,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "21/12 19:54",
+        "Count": 602,
+        "GameID": 141,
+        "Place": 1,
+        "RatingChange": 34,
+        "Score": 44000,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "21/12 19:54",
+        "Count": 603,
+        "GameID": 141,
+        "Place": 3,
+        "RatingChange": -10.6,
+        "Score": 19400,
+        "UserID": 8579
+    },
+    {
+        "AddedAt": "21/12 19:54",
+        "Count": 604,
+        "GameID": 141,
+        "Place": 2,
+        "RatingChange": 7.9,
+        "Score": 27900,
+        "UserID": 8193
+    },
+    {
+        "AddedAt": "21/12 20:05",
+        "Count": 605,
+        "GameID": 142,
+        "Place": 1,
+        "RatingChange": 26.4,
+        "Score": 36400,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "21/12 20:05",
+        "Count": 606,
+        "GameID": 142,
+        "Place": 2,
+        "RatingChange": 8.3,
+        "Score": 28300,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "21/12 20:05",
+        "Count": 607,
+        "GameID": 142,
+        "Place": 4,
+        "RatingChange": -24.1,
+        "Score": 15900,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "21/12 20:05",
+        "Count": 608,
+        "GameID": 142,
+        "Place": 3,
+        "RatingChange": -10.6,
+        "Score": 19400,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "21/12 20:14",
+        "Count": 609,
+        "GameID": 143,
+        "Place": 2,
+        "RatingChange": 5.4,
+        "Score": 25400,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/12 20:14",
+        "Count": 610,
+        "GameID": 143,
+        "Place": 4,
+        "RatingChange": -24.3,
+        "Score": 15700,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "21/12 20:14",
+        "Count": 611,
+        "GameID": 143,
+        "Place": 3,
+        "RatingChange": -10.9,
+        "Score": 19100,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "21/12 20:14",
+        "Count": 612,
+        "GameID": 143,
+        "Place": 1,
+        "RatingChange": 29.8,
+        "Score": 39800,
+        "UserID": 4464
+    },
+    {
+        "AddedAt": "21/12 21:15",
+        "Count": 613,
+        "GameID": 144,
+        "Place": 3,
+        "RatingChange": -20.1,
+        "Score": 9900,
+        "UserID": 8373
+    },
+    {
+        "AddedAt": "21/12 21:15",
+        "Count": 614,
+        "GameID": 144,
+        "Place": 4,
+        "RatingChange": -50.2,
+        "Score": -10200,
+        "UserID": 2834
+    },
+    {
+        "AddedAt": "21/12 21:15",
+        "Count": 615,
+        "GameID": 144,
+        "Place": 1,
+        "RatingChange": 70.5,
+        "Score": 80500,
+        "UserID": 2005
+    },
+    {
+        "AddedAt": "21/12 21:15",
+        "Count": 616,
+        "GameID": 144,
+        "Place": 2,
+        "RatingChange": -0.20000000000000018,
+        "Score": 19800,
+        "UserID": 4464
+    },
+    {
+        "AddedAt": "21/12 21:33",
+        "Count": 617,
+        "GameID": 145,
+        "Place": 2,
+        "RatingChange": 12.2,
+        "Score": 32200,
+        "UserID": 3735
+    },
+    {
+        "AddedAt": "21/12 21:33",
+        "Count": 618,
+        "GameID": 145,
+        "Place": 4,
+        "RatingChange": -32.5,
+        "Score": 7500,
+        "UserID": 6390
+    },
+    {
+        "AddedAt": "21/12 21:33",
+        "Count": 619,
+        "GameID": 145,
+        "Place": 3,
+        "RatingChange": -15.3,
+        "Score": 14700,
+        "UserID": 564
+    },
+    {
+        "AddedAt": "21/12 21:33",
+        "Count": 620,
+        "GameID": 145,
+        "Place": 1,
+        "RatingChange": 35.6,
+        "Score": 45600,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "22/12 13:30",
+        "Count": 625,
+        "GameID": 146,
+        "Place": 1,
+        "RatingChange": 24.7,
+        "Score": 34700,
+        "UserID": 8579
+    },
+    {
+        "AddedAt": "22/12 13:30",
+        "Count": 626,
+        "GameID": 146,
+        "Place": 4,
+        "RatingChange": -22.8,
+        "Score": 17200,
+        "UserID": 9038
+    },
+    {
+        "AddedAt": "22/12 13:30",
+        "Count": 627,
+        "GameID": 146,
+        "Place": 3,
+        "RatingChange": -6.7,
+        "Score": 23300,
+        "UserID": 5376
+    },
+    {
+        "AddedAt": "22/12 13:30",
+        "Count": 628,
+        "GameID": 146,
+        "Place": 2,
+        "RatingChange": 4.8,
+        "Score": 24800,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "22/12 19:09",
+        "Count": 629,
+        "GameID": 147,
+        "Place": 2,
+        "RatingChange": 16.7,
+        "Score": 36700,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "22/12 19:09",
+        "Count": 630,
+        "GameID": 147,
+        "Place": 3,
+        "RatingChange": -14.3,
+        "Score": 15700,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "22/12 19:09",
+        "Count": 631,
+        "GameID": 147,
+        "Place": 1,
+        "RatingChange": 30,
+        "Score": 40000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "22/12 19:09",
+        "Count": 632,
+        "GameID": 147,
+        "Place": 4,
+        "RatingChange": -32.4,
+        "Score": 7600,
+        "UserID": 3293
+    },
+    {
+        "AddedAt": "22/12 20:43",
+        "Count": 633,
+        "GameID": 148,
+        "Place": 3,
+        "RatingChange": -6.5,
+        "Score": 23500,
+        "UserID": 3926
+    },
+    {
+        "AddedAt": "22/12 20:43",
+        "Count": 634,
+        "GameID": 148,
+        "Place": 2,
+        "RatingChange": 8,
+        "Score": 28000,
+        "UserID": 6083
+    },
+    {
+        "AddedAt": "22/12 20:43",
+        "Count": 635,
+        "GameID": 148,
+        "Place": 1,
+        "RatingChange": 20,
+        "Score": 30000,
+        "UserID": 8667
+    },
+    {
+        "AddedAt": "22/12 20:43",
+        "Count": 636,
+        "GameID": 148,
+        "Place": 4,
+        "RatingChange": -21.5,
+        "Score": 18500,
+        "UserID": 3293
+    }
+]
