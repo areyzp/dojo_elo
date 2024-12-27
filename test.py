@@ -5,6 +5,12 @@ players = {}
 games = {}
 elo = {}
 played = {}
+umaoka = {
+    1: 45000,
+    2: 5000,
+    3: -15000,
+    4: -35000,
+}
 
 f = open('Users.json', 'r')
 a = json.loads(f.read())
@@ -44,14 +50,14 @@ def countEloAdj(player_elo, avg_tbl_elo, place, abs_score):
     # lands between 0 - unlikely to win and 3 - guaranteed to win
     # we compare it to inverse of place to judge the performance
     GR = 400
-    K = 15
+    K = 23
     ex_place = 3 / (1 + math.pow(10, (avg_tbl_elo-player_elo)/GR))
     real_place = 4-place
     placement_adj = K * (real_place - ex_place)
 
     # score gives a flat elo multiplier
-    SF = 0.00075
-    score_adj = SF * abs_score
+    SF = 0.0009
+    score_adj = SF * (abs_score + umaoka[place])
 
     return placement_adj + score_adj
 
